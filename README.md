@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/channel/UCHnEg3BOzfvjxA91js8uzRA">💻 Arvin Zax</a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/927360175445250060/1045433307212546158/Annotation_2022-11-24_212917.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/927360175445250060/1045433307212546158/Annotation_2022-11-24_212917.png">
-  <img src="https://cdn.discordapp.com/attachments/927360175445250060/1045433307212546158/Annotation_2022-11-24_212917.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/927360175445250060/1045433880385179668/New_Project_2.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/927360175445250060/1045433880385179668/New_Project_2.png">
+  <img src="https://cdn.discordapp.com/attachments/927360175445250060/1045433880385179668/New_Project_2.png">
 </picture>
