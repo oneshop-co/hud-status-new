@@ -4,6 +4,7 @@
 
 **🥰 One Shop DISCORD:**<br>
 <a href="https://discord.gg/9HumDzMusA">ONE SHOP COMMUNITY</a>
+* our [TEBEX](https://oneshop.tebex.io/)
 
 <br>**🥰 MY YouTube:**<br>
 <a href="https://www.youtube.com/channel/UCHnEg3BOzfvjxA91js8uzRA">💻 Arvin Zax</a>
